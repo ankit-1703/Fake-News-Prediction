@@ -22,9 +22,12 @@ The topic of fake news detection on social media has recently attracted tremendo
 - Logistic Regression
 - Naive Bayes Classifier
 - Passive Aggressive Classifier
+- Decision Trees
+- Random Forest
+- XgBoost
+- Neural Network - LSTM
 
 ## Accuracies of Models
 
-- Logistic Regression : Accuracy is 0.98
-- Multinomial Naive Bayes : Accuracy is 0.95
-- Passive Aggressive Classifier : Accuracy is 0.99
+![image](https://user-images.githubusercontent.com/63447255/188192971-89880a69-c434-4914-9bb3-a1b8305f7926.png)
+
